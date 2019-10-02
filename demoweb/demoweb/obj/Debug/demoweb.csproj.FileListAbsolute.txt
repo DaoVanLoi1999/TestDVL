@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\demoweb\demoweb\bin\demoweb.dll.config
+c:\users\admin\documents\visual studio 2013\Projects\demoweb\demoweb\bin\demoweb.dll
+c:\users\admin\documents\visual studio 2013\Projects\demoweb\demoweb\bin\demoweb.pdb
+c:\users\admin\documents\visual studio 2013\Projects\demoweb\demoweb\obj\Debug\demoweb.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\demoweb\demoweb\obj\Debug\demoweb.dll
+c:\users\admin\documents\visual studio 2013\Projects\demoweb\demoweb\obj\Debug\demoweb.pdb

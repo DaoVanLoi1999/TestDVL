@@ -13,5 +13,24 @@ namespace demoweb
         {
 
         }
+
+        protected void Button1_Click(object sender, EventArgs e)
+        {
+            string tentk, mk;
+            tentk=Request.Form["txttaikhoan"];
+            mk = Request.Form["txtmatkhau"];
+            if(tentk=="loi" && mk=="123")
+            {
+                labthongbao.Text = "Đăng nhập thành công";
+            }
+            else
+                labthongbao.Text="Tài khoản hoặc mật khẩu không chính xác";
+        }
+
+        protected void LinkButton1_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("dangky.aspx");
+        }
+
     }
 }

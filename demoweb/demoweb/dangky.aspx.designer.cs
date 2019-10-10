@@ -10,7 +10,7 @@
 namespace demoweb {
     
     
-    public partial class dangnhap {
+    public partial class dangky {
         
         /// <summary>
         /// form1 control.
@@ -31,13 +31,13 @@ namespace demoweb {
         protected global::System.Web.UI.WebControls.Panel Panel1;
         
         /// <summary>
-        /// Label4 control.
+        /// Label1 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label Label4;
+        protected global::System.Web.UI.WebControls.Label Label1;
         
         /// <summary>
         /// Label2 control.
@@ -76,30 +76,21 @@ namespace demoweb {
         protected global::System.Web.UI.WebControls.TextBox txtmatkhau;
         
         /// <summary>
-        /// btndangnhap control.
+        /// Label4 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btndangnhap;
+        protected global::System.Web.UI.WebControls.Label Label4;
         
         /// <summary>
-        /// LinkButton1 control.
+        /// txtmatkhau0 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.LinkButton LinkButton1;
-        
-        /// <summary>
-        /// labthongbao control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Label labthongbao;
+        protected global::System.Web.UI.WebControls.TextBox txtmatkhau0;
     }
 }

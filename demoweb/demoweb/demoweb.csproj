@@ -65,10 +65,18 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="dangky.aspx" />
     <Content Include="dangnhap.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="dangky.aspx.cs">
+      <DependentUpon>dangky.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="dangky.aspx.designer.cs">
+      <DependentUpon>dangky.aspx</DependentUpon>
+    </Compile>
     <Compile Include="dangnhap.aspx.cs">
       <DependentUpon>dangnhap.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
